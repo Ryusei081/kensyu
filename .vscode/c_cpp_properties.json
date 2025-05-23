@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/SQlite/mingw64/include",
+        "C:/SQlite/mingw64/x86_64-w64-mingw32/include",
+        "C:/SQlite/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include",
+        "C:/SQlite"
+      ],
+      "compilerPath": "C:/SQlite/mingw64/bin/gcc.exe",
+      "intelliSenseMode": "windows-gcc-x64",
+      "cStandard": "c11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
